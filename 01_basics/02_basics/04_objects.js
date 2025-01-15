@@ -52,6 +52,8 @@ console.log(Object.keys(instaUser));
 console.log(Object.values(instaUser));
 console.log(Object.entries(instaUser));
 
+console.log(instaUser.hasOwnProperty('isLoggedIn'));
+
 
 
 
